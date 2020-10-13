@@ -1,5 +1,6 @@
 # env
 env
+venv
 .env
 
 #vscode
@@ -10,3 +11,6 @@ env
 !.vscode/extensions.json
 *.code-workspace
 settings.json
+
+# data
+*.csv
