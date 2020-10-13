@@ -1,1 +1,0 @@
-# georgia-coranavirus-prediction
